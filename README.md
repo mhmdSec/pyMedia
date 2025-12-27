@@ -1,7 +1,6 @@
 # PyMedia Downloader Tool
 A simple and fast tool built with Python to download media (video and audio) from various online sources using the powerful yt-dlp library.
-Features
-
+## Features
     1.Interactive command-line.
     2.Ability to download only video or only audio files.
     3.Displays a list of available quality and format options for selection.
